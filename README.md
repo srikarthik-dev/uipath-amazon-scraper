@@ -1,3 +1,6 @@
+<img width="1710" height="1107" alt="image" src="https://github.com/user-attachments/assets/80fdba6f-7503-4b33-b58c-e4324f968ab4" />
+<img width="1710" height="1107" alt="image" src="https://github.com/user-attachments/assets/001c11bb-c9ad-4cb2-b67f-7a6923b5bc23" />
+
 # Amazon Web Scraper to Apple Notes (UiPath RPA)
 
 A cross-platform Robotic Process Automation (RPA) workflow developed with **UiPath Studio Web** and executed on macOS via **UiPath Assistant**.
@@ -42,13 +45,6 @@ A cross-platform Robotic Process Automation (RPA) solution developed in **UiPath
   * Launches or switches to the macOS Notes application.
   * Triggers native macOS shortcuts (`Cmd + N`) to create a fresh note.
   * Injects scraped values cleanly into the note editor using dynamic expressions.
-
-### 2. Desktop Calculator Automation (`RPA Workflow`)
-* **Target Platform:** Native macOS Calculator (`Calculator.app`)
-* **Key Features:**
-  * Attaches to the native Apple Calculator application.
-  * Simulates UI clicks and keystrokes to perform automated calculations.
-  * Runs entirely on macOS without Windows-only runtime dependencies.
 
 ---
 
