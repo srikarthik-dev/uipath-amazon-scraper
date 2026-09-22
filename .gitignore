@@ -1,0 +1,8 @@
+.local/
+.screenshots/
+.storage/
+.settings/
+.tmph/
+.entities/
+*.log
+.DS_Store

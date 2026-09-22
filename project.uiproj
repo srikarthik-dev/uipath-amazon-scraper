@@ -1,0 +1,6 @@
+{
+  "ProjectType": "Process",
+  "Name": "Amazon_scraper",
+  "Description": null,
+  "MainFile": "Main.xaml"
+}
